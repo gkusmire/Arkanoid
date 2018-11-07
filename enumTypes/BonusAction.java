@@ -1,0 +1,6 @@
+package enumTypes;
+
+public enum BonusAction {
+	LENGHTEN_PLATFORM, SHORTEN_PLATFORM, 
+	SPEED_UP_BALL, SLOW_DOWN_BALL, TRIPLE_BALL, NOTHING; 
+}
